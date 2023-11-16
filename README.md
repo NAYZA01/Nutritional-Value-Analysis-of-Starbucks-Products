@@ -9,3 +9,4 @@ A heat map can be created to understand the relationship between nutrients among
 Decision Tree  🧠🔍,
 A Decision Tree can be used for further analysis on the nutritional content of Starbucks drinks. A Decision Tree can help identify important factors that influence the nutritional content of drinks and the interactions of these factors.
 Are there any obvious trends in the nutritional content of drinks on the Starbucks menu over time?💭
+Check out the on linkedin: https://www.linkedin.com/in/u%C4%9Fur-burak-yavuz-a48238246/
